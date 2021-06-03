@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of the penal-laws against immorality, and prophaneness commanded to be put in speedy and vigourous execution, by his Majesty's gracious and pious proclamation, pursuant to the humble address of the honourable House of Commons. Published for the ease and direction of all officers, or others, for the better discharge of their duty, by giving information to the magistrates of the breach of the said laws.</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21779</idno><idno type="EEBO-CITATION">99827280</idno>
+  <idno type="VID">206847</idno>
+  <idno type="EEBO-PROQUEST">2240880946</idno>
+  
+            <idno type="STC">Wing E869</idno>
+            <idno type="PROQUEST">99827280</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827280e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21779)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206847)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1846:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of the penal-laws against immorality, and prophaneness commanded to be put in speedy and vigourous execution, by his Majesty's gracious and pious proclamation, pursuant to the humble address of the honourable House of Commons. Published for the ease and direction of all officers, or others, for the better discharge of their duty, by giving information to the magistrates of the breach of the said laws.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by William Downing, in St. Bartholomew-Close, near Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in Chetham's Library, Manchester, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Drunkenness (Criminal law) --  England --  Early works to 1800.</term>
+               <term type="topical_term">Ten Commandments --  Sabbath --  Early works to 1800.</term>
+               <term type="topical_term">Prostitution --  England --  Early works to 1800.</term>
+               <term type="topical_term">Blasphemy --  Early works to 1800.</term>
+               <term type="topical_term">Criminal behavior --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:206847:1"/>
+            <head>An Abstract of the Penal-Laws Against Immorality, and Prophaneness, Commanded to be put in Speedy and Vigorous Execution, by His MAJESTY's Gracious and Pious PROCLAMATION, pursuant to the Humble ADDRESS of the Honourable House of Commons.</head>
+            <p>
+               <hi>Published for the Ease and Direction of all Officers, or others, for the better Discharge of their Duty, by giving Information to the Magistrates of the Breach of the said</hi> LAWS.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>OFFENCES.</hi>
+                     </cell>
+                     <cell role="label">LAWS and STATUTES</cell>
+                     <cell role="label">
+                        <hi>PENALTIES.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="3">
+                        <hi>Prophanation of the Lord's-Day.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>ALL Laws in force concerning the Observation of the Lord's-Day, shall be put in Execution: This Day is by every one to be Sancti<g ref="char:EOLhyphen"/>fied and kept Holy, and all Per<g ref="char:EOLhyphen"/>sons must be careful herein to exercise them<g ref="char:EOLhyphen"/>selves in the Duties of Piety, and true Reli<g ref="char:EOLhyphen"/>gion Publickly and Privately; and every one on this Day (not having a reasonable Excuse) must diligently resort to some Publick place, where the Service of God is exercised, or must be present at some other Place, (allowed of by Law) in the Practice of some Religious Duty, either of Prayer, Preaching, Reading, or Expounding of the Scriptures, or Confe<g ref="char:EOLhyphen"/>rence upon the same.</cell>
+                     <cell>
+                        <p>29 <hi>Car.</hi> 2. <hi>C.</hi> 7.</p>
+                        <p>1 <hi>Will.</hi> &amp; <hi>M. Cap.</hi> 18.</p>
+                        <p>1 <hi>Eliz. Cap.</hi> 2.</p>
+                        <p>3 <hi>Jac. Cap.</hi> 4.</p>
+                     </cell>
+                     <cell>NOTE, That His Majesty's Pro<g ref="char:EOLhyphen"/>testant Subjects dissenting from the Church of <hi>England,</hi> and qua<g ref="char:EOLhyphen"/>lified according to the late Sta<g ref="char:EOLhyphen"/>tute of Indulgence, are exempted from the Penalties of the Statutes, 3 <hi>Jac.</hi> 1 <hi>Eliz.</hi> 23. <hi>Eliz.</hi> 29. <hi>Eliz. and some other Statutes.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>Such as repair not to Church, <hi>&amp;c.</hi> on <hi>Sun<g ref="char:EOLhyphen"/>days</hi> and <hi>Holidays,</hi>
+                        </p>
+                        <p>One Witness,</p>
+                        <p>Absenting for a Month,</p>
+                        <p>If a Twelve-month or more,</p>
+                        <p>If any come not to the Sacrament of the Lord's-Supper once a Year,</p>
+                        <p>None shall speak or do any thing in Con<g ref="char:EOLhyphen"/>tempt of the most Holy Sacrament.</p>
+                     </cell>
+                     <cell>
+                        <p>1 <hi>Eliz. Cap.</hi> 2.</p>
+                        <p>23 <hi>Eliz. Cap.</hi> 1</p>
+                        <p>3 <hi>Jac. Cap.</hi> 1.</p>
+                        <p>3 <hi>Jac. Cap.</hi> 4.</p>
+                        <p>1 <hi>Ed.</hi> 6. <hi>Cap.</hi> 1.</p>
+                     </cell>
+                     <cell>
+                        <p>Twelve Pence for every Default, to be le<g ref="char:EOLhyphen"/>vied by Distress, and for want of Distress, to be committed to some Prison, until the same be paid. <hi>vid.</hi> 14. 15. §.</p>
+                        <p>Twenty Pounds <hi>per</hi> Month, and forfeiture of Two parts in Three of their Estates.</p>
+                        <p>Their Names and Sirnames to be Pre<g ref="char:EOLhyphen"/>sented: Forty Shillings Reward to such as Present them.</p>
+                        <p>By Oath of Two lawful Witnesses, by Three Justices <hi>Quorum un.</hi> to be Bound over and Prosecuted in Sessions.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>Whosoever shall disturb any Preacher al<g ref="char:EOLhyphen"/>low'd in his open Sermon or Collation, or be procuring or abetting thereunto, or shall Rescue, <hi>&amp;c.</hi> any Offender, <hi>&amp;c.</hi>
+                        </p>
+                        <p>Accusation must be by Two Witnesses, or Confession.</p>
+                     </cell>
+                     <cell>1 <hi>M. Cap.</hi> 3.</cell>
+                     <cell>To be Committed by any Justice of the County to safe Custody, and within six days the said Committing Justice, with one other Justice, (if the Offender upon Examination shall be found Guilty) shall Commit him to Gaol without Bail, <hi>&amp;c.</hi> for Three Months, and farther to the next Quarter-Sessions.</cell>
+                  </row>
+                  <row>
+                     <cell>Such as Meet or Assemble out of their own Parish upon the Lord's-Day, for any Sports or Pastimes whatsoever; or such as shall use any Unlawful Exercise or Pastime in their own Parish upon the Lord's-Day.</cell>
+                     <cell>
+                        <p>1 <hi>Car. Cap.</hi> 1.</p>
+                        <p>3 <hi>Car. Cap.</hi> 2.</p>
+                     </cell>
+                     <cell>Three Shillings and Four Pence to the Poor, where▪ <hi>&amp;c.</hi> to be levied by Distress and Sale, restoring the Overplus, <hi>&amp;c.</hi> and for want of Distress, to be sent to the Stocks for Three Hours; but they must be questioned within a Month.</cell>
+                  </row>
+                  <row>
+                     <cell>If any Carrier, Wagoner, Butcher, <hi>&amp;c.</hi> with Horse, Wain, or Cart, or Drover with Cattle, shall Travel upon the Lord's-Day by them<g ref="char:EOLhyphen"/>selves, or any other for them,</cell>
+                     <cell>3 <hi>Car. Cap.</hi> 2</cell>
+                     <cell>Twenty Shillings for every Offence, to be levied by Distress and Sale, to the Use of the Poor.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>If any Butcher, or any other for him, shall Kill or Sell any Victuals upon the <hi>Sunday,</hi>
+                        </p>
+                        <p>Two Witnesses, View, or Confession,</p>
+                     </cell>
+                     <cell>3 <hi>Car. Cap.</hi> 2.</cell>
+                     <cell>He shall Forfeit Six Shillings and Eight Pence, if questioned within Six Months, to be Levied, <hi>&amp;c.</hi> or may be Sued for in Ses<g ref="char:EOLhyphen"/>sions, <hi>&amp;c.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>If any Shoe-Maker shall go with intent to Sell any Boots, Shoes, <hi>&amp;c.</hi> on the <hi>Sunday,</hi>
+                     </cell>
+                     <cell>1 <hi>Jac. Cap.</hi> 22.</cell>
+                     <cell>He shall Forfeit such Goods, and Three Shillings and Four Pence for every Pair.</cell>
+                  </row>
+                  <row>
+                     <cell>If any Person of the Age of 14, shall on the Lord's-Day, or any part thereof, do any Worldly Labour, Business, or Work, <hi>&amp;c.</hi> ex<g ref="char:EOLhyphen"/>cept Works of Necessity and Charity,</cell>
+                     <cell>29 <hi>Car.</hi> 2. <hi>Cap.</hi> 7.</cell>
+                     <cell>He shall Forfeit Five Shillings for every Offence.</cell>
+                  </row>
+                  <row>
+                     <cell>If any Person shall Cry, Shew forth, or put to Sale any Wares, Fruit, Goods, <hi>&amp;c.</hi> except Milk only, before the Hours of Nine in the Morning, and after Four in the Afternoon,</cell>
+                     <cell>29 <hi>Car.</hi> 2. <hi>Cap.</hi> 7.</cell>
+                     <cell>He shall Forfeit the said Wares, Fruit, Goods, <hi>&amp;c.</hi> to the Use of the Poor.</cell>
+                  </row>
+                  <row>
+                     <cell>No Drover, Horse-Courser, Wagoner, Butcher, Higler, or any of their Servants, shall Travel, or come to their Inns, on the Lord's-Day.</cell>
+                     <cell>29 <hi>Car.</hi> 2. <hi>Cap.</hi> 7.</cell>
+                     <cell>The Forfeit is Twenty Shillings for every Offence.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>No Person shall use to Travel upon the Lord's-Day with any Horse, Boat, Wherry, <hi>&amp;c.</hi> except allow'd by one Justice of Peace so to do,</p>
+                        <p>By View, Confession, or one Witness.</p>
+                        <p>This Act extends not to dressing of Meat in Cooks-Shops, Inns, or Victualling-Houses; nor to Hackney-Coaches that are Licensed.</p>
+                     </cell>
+                     <cell>29 <hi>Car.</hi> 2. <hi>Cap.</hi> 7.</cell>
+                     <cell>
+                        <p>The Forfeiture is Five Shillings for every Offence. The Conviction upon the Statute must be before any Justice of the County, <hi>&amp;c.</hi> who shall give Warrant to the Constables, <hi>&amp;c.</hi> to Seize the Goods shewed, <hi>&amp;c.</hi> and to Levy the Forfeitures by Distress, <hi>&amp;c.</hi> and for want of Distress, to put the Offender in the Stocks for Two Hours: The Justices, <hi>&amp;c.</hi> may re<g ref="char:EOLhyphen"/>ward the Informer out of the Forfeitures, not exceeding the Third part.</p>
+                        <p>Every Person must be Impeached upon this. Act within Ten Days after the Offence.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="3">
+                        <hi>Drunkenness.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>If any be Convicted for being Drunk, by One Witness, or View,</p>
+                        <p>If any Ale House-Keeper be Convicted of Drunkenness, he is disabled for Three Years to keep any Ale-House.</p>
+                        <p>This Conviction of Drunkenness must be within Six Months after the Offence com<g ref="char:EOLhyphen"/>mitted.</p>
+                     </cell>
+                     <cell>
+                        <p>4 <hi>Jac. Cap.</hi> 5.</p>
+                        <p>21 <hi>Jac. Cap.</hi> 7.</p>
+                     </cell>
+                     <cell>
+                        <p>The Offender for the first to pay Five Shillings to the Church-Wardens, where, <hi>&amp;c.</hi> within one Week after Conviction, or else to be Levied by Distress and Sale; and for want of Distress, to sit in the Stocks Six Hours.</p>
+                        <p>For the second Offence, must be Bound in Ten Pounds, with Two Sureties, to the good Behaviour; and for want of Sureties, to be sent to Gaol.</p>
+                        <p>If the Constable levy not the Forfeitures, he Forfeits Ten Shillings to the Poor, <hi>ut supra.</hi>
+                        </p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>Inn-Keepers, Ale-House-Keepers, or Victu<g ref="char:EOLhyphen"/>allers, that suffer any of the same Parish to continue Tipling in their Houses,</p>
+                        <p>One Witness, or View,</p>
+                     </cell>
+                     <cell>
+                        <p>1 <hi>Jac. Cap.</hi> 9.</p>
+                        <p>21 <hi>Jac. Cap.</hi> 7.</p>
+                     </cell>
+                     <cell>
+                        <p>Ten Shillings to be Levied by Distress and Sale, after six days; and for want of Distress, to be Committed till Payment, and Disabled for Three Years from Keeping any Ale-House, <hi>&amp;c.</hi>
+                        </p>
+                        <p>If the Constable or Church-Warden do not Levy the Penalty, or shall not Certifie the want of Distress within Twenty Days, he Forfeits Forty Shillings, to be levied by Distress and Sale, <hi>ut supra.</hi>
+                        </p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>If any Inn-Keeper, Ale-House-Keeper, Vi<g ref="char:EOLhyphen"/>ctualler, or Taverner, suffer any Person (where<g ref="char:EOLhyphen"/>soever his Habitation be) to continue Tipling in his House, Two Witnesses, or View,</cell>
+                     <cell>
+                        <p>1 <hi>Jac. Cap.</hi> 4.</p>
+                        <p>21 <hi>Jac. Cap.</hi> 7.</p>
+                        <p>1 <hi>Car. Cap.</hi> 4.</p>
+                     </cell>
+                     <cell>Ten Shillings to be Levied by Distress, and for want of Satisfaction, in six days to be Sold, restoring the Overplus; and for want of Di<g ref="char:EOLhyphen"/>stress, to be Committed till Payment.</cell>
+                  </row>
+                  <row>
+                     <cell>Townsmen, or others, which shall remain Tipling in any Inn, Ale-House, or Victualling-House, One Witness, or View,</cell>
+                     <cell>
+                        <p>4 <hi>Jac. Cap</hi> 5.</p>
+                        <p>21 <hi>Jac. Cap.</hi> 7.</p>
+                     </cell>
+                     <cell>Three Shillings and Four Fence to be Le<g ref="char:EOLhyphen"/>vied by Distress, after one Weeks Neglect of Payment; or to sit in the Stocks four Hours.</cell>
+                  </row>
+                  <row>
+                     <cell>Constables shall be charged on their Oaths to present Offences committed against these <hi>Acts.</hi>
+                     </cell>
+                     <cell>
+                        <p>1 <hi>Car. Cap.</hi> 4.</p>
+                        <p>21 <hi>Jac. Cap.</hi> 7.</p>
+                     </cell>
+                     <cell>The Constable for his Neglect Forfeits Ten Shillings, <hi>ut supra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>These Statutes do Prohibit all Quaffing, and Drinking of Healths, such Houses being solely appointed for the Accommodation of Travellers, and for the Relief of the Poor.</cell>
+                     <cell>
+                        <hi>Dalt. Cap.</hi> 7.</cell>
+                     <cell>Every such Taverner, which shall suffer any Person whatsoever to Tiple in his House, contrary to the said Statutes, shall be ad<g ref="char:EOLhyphen"/>judged within the Statute, 1 <hi>Jac. Cap.</hi> 9.</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="3">
+                        <hi>Swearing and Cursing.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>If any Person shall Prophanely Swear or Curse in the Hearing of a Justice of Peace, Mayor, <hi>&amp;c.</hi> or be Convicted of such Swear<g ref="char:EOLhyphen"/>ing, by one Witness, or Confession of the Party,</p>
+                        <p>Every Offence against this Act must be proved within Ten Days after the Offence Committed.</p>
+                        <p>Every Justice shall certifie to the next Quarter-Sessions of Peace all Convictions made before him upon this Act, and the time of making thereof, and for what Offence.</p>
+                        <p>None shall in any Stage-Play, Shew, May-game, Interlude, or Pageant, Jestingly or Pro<g ref="char:EOLhyphen"/>phanely speak or use the Holy Name of God, Christ Jesus, the Holy Ghost, or Trinity,</p>
+                     </cell>
+                     <cell>
+                        <p>21 <hi>Jac. Cap.</hi> 20</p>
+                        <p>3 <hi>Car. Cap.</hi> 4.</p>
+                        <p>17 <hi>Car. Cap.</hi> 4.</p>
+                        <p>6, 7 <hi>Gulielm. Cap.</hi> 11.</p>
+                        <p>3 <hi>Jac. Cap.</hi> 21.</p>
+                     </cell>
+                     <cell>
+                        <p>He shall forfeit for every such Offence to the Use of the Poor, the respective Sums following; every Servant, Day-Labourer, common Souldier, and common Seaman, One Shilling; every other Person, Two Shillings: If any Person, after Conviction, shall offend a Second time, such Person shall pay Double; and if a Third time, Trebble the Sum respectively to be paid for the first Offence. Every Justice, Head-Officer, &amp;c. may Com<g ref="char:EOLhyphen"/>mand the Constables, &amp;c. to Levy the same by Distress: And for want of Distress, the Offender, being above the Age of Sixteen Years, shall be set in the Stocks, for every single Offence, one Hour; for any Number, at one and the same time, two Hours: If under Sixteen Years old, and shall not pay the said Twelve-pence, he shall be whipp'd by the Constable, by Warrant of the Justice, or by the Parent or Master, in the Presence of the Con<g ref="char:EOLhyphen"/>stable. Every Justice, Wilfully omitting the Performing of his Duty, shall forfeit Five Pounds, to be recovered by Action. The Act of the Sixth and Seventh of King WILLIAM, to be Read four times in the Year, in all Churches and Chappels, under the pain of Twenty Shillings for Neglect thereof.</p>
+                        <p>On pain of Ten Pounds, to be divided be<g ref="char:EOLhyphen"/>tween the King and the Prosecutor, to be recovered by Action.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="3">
+                        <hi>Leud and Disorderly Practices.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>Keeping of Baudy-Houses, <hi>&amp;c.</hi> is against the Law of God, on which our Common Law in this Case is grounded: Therefore the Keepers of Houses of Baudry and Incontinence.</p>
+                        <p>Resorters and Frequenters of Baudy-Houses,</p>
+                        <p>Adultery, <hi>&amp;c.</hi> and all Acts of Bandry, are Breaches of the Peace,</p>
+                     </cell>
+                     <cell>
+                        <p>
+                           <hi>Col.</hi> 3. <hi>Instit.</hi> 11 <hi>Hen.</hi> 6. <hi>Cap.</hi> 1.</p>
+                        <p>1 <hi>Hen.</hi> 7. <hi>cap.</hi> 6.</p>
+                     </cell>
+                     <cell>
+                        <p>Are to be Punished, being a Common Nu<g ref="char:EOLhyphen"/>sance, by Indictment at Common Law by Fine and Imprisonment.</p>
+                        <p>To be Bound with Sureties to the good Behaviour.</p>
+                        <p>For which an Indictment will lie.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>If a Constable, <hi>&amp;c.</hi> has Notice that a Wo<g ref="char:EOLhyphen"/>man is in Adultery, <hi>&amp;c.</hi> with a Man▪ or that a Man or Woman of evil Fame is gone to a suspected House,</p>
+                        <p>Strangers, or others, that are suspicious, that walk by Night, especially if they haunt leud Houses, or keep leud Company, or com<g ref="char:EOLhyphen"/>mit Outrages,</p>
+                     </cell>
+                     <cell>
+                        <p>
+                           <hi>Cook</hi> 3 <hi>Instit.</hi>
+                        </p>
+                        <p>
+                           <hi>Dal. Cap.</hi> 124.</p>
+                        <p>7 <hi>Jac. Cap.</hi> 4.</p>
+                        <p>39 <hi>Eliz. Cap.</hi> 4.</p>
+                        <p>43 <hi>Eliz. Cap.</hi> 2</p>
+                        <p>4 <hi>Hen.</hi> 7. <hi>Cap.</hi> 12.</p>
+                     </cell>
+                     <cell>
+                        <p>He may take Help with him, and if he find them so, he may carry them to Prison, or to a Justice, to be Bound over and Prosecuted.</p>
+                        <p>To find sufficient Sureties for the Good Behaviour.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>Idlers that refuse to Work, and Disorderly Persons,</p>
+                        <p>Wandring Rogues, <hi>&amp;c.</hi>
+                        </p>
+                        <p>If the Constable punish them not,</p>
+                     </cell>
+                     <cell>
+                        <p>39 <hi>Eliz. Cap.</hi> 4</p>
+                        <p>1 <hi>Jac. Cap.</hi> 7.</p>
+                     </cell>
+                     <cell>
+                        <p>To be Committed to the House of Cor<g ref="char:EOLhyphen"/>rection.</p>
+                        <p>To be Whipp'd, and sent to the Place of Birth.</p>
+                        <p>He Forfeits Ten Shillings, to be Levied by a Warrant from Two Justices.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>Such as shall not Apprehend Rogues, <hi>&amp;c.</hi> being at their Doors,</p>
+                        <p>Two Witnesses, or Confession,</p>
+                     </cell>
+                     <cell> </cell>
+                     <cell>Ten Shillings to be Levied, <hi>ut supra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>Every Constable who does not punish such as are brought to him,</p>
+                        <p>Such as disturb the Punishment o<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Rogues, <hi>&amp;c.</hi>
+                        </p>
+                     </cell>
+                     <cell>
+                        <p>39 <hi>Eliz. Cap.</hi> 4</p>
+                        <p>7 <hi>Jac. Cap.</hi> 4.</p>
+                     </cell>
+                     <cell>
+                        <p>Twenty Shillings to be Levied, <hi>ut supra.</hi>
+                        </p>
+                        <p>Five Pounds to be Levied by Distress, and Bound to the Good Behaviour by Two Ju<g ref="char:EOLhyphen"/>stices, <hi>Quorum un.</hi>
+                        </p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>Officers remiss in Punishing of Rogues, <hi>&amp;c.</hi>
+                        </p>
+                        <p>Such as run away, and leave their Charge upon the Parish,</p>
+                        <p>Such as threaten to run away,</p>
+                        <p>Two Witnesses,</p>
+                        <p>If any Woman shall have a Bastard Child which may be chargeable to the Parish,</p>
+                     </cell>
+                     <cell>7 <hi>Jac. Cap.</hi> 4.</cell>
+                     <cell>
+                        <p>Ten Pounds to be Levied by Distress and Sale, <hi>ut supra.</hi>
+                        </p>
+                        <p>To be Punished as Rogues, <hi>&amp;c.</hi>
+                        </p>
+                        <p>To be sent to <hi>Bridewell,</hi> or give Security to discharge the Parish.</p>
+                        <p>
+                           <hi>Bridewell</hi> for One Year, to be sent by Two Justices, and Bound not to Offend so again.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="3">
+                        <hi>Gaming.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>Keepers of Play-Houses, and Unlawful Games,</p>
+                        <p>Upon View,</p>
+                        <p>Such as Play in such Houses,</p>
+                     </cell>
+                     <cell>33 <hi>Hen.</hi> 8. <hi>Cap.</hi> 9.</cell>
+                     <cell>
+                        <p>Forty Shillings, and Imprisonment until he become Bound by Recognizance to keep no more.</p>
+                        <p>Imprisonment until he be bound to Play no more, and to pay Six Shillings and Eight Pence, to be recovered in <hi>Quarter-Sessions.</hi>
+                        </p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>Upon View,</p>
+                        <p>Such as out of <hi>Christmass</hi> shall Play at Unlawful Games any where,</p>
+                        <p>All Licenses to keep Houses or Places of Unlawful Games shall be void.</p>
+                     </cell>
+                     <cell>2, 3 <hi>Ph. &amp; M. Cap.</hi> 9.</cell>
+                     <cell>Imprisonment, and bound to the King to Play no more, Twenty Shillings by Indict<g ref="char:EOLhyphen"/>ment in <hi>Quarter-Sessions.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed by</hi> William Downing, <hi>in St.</hi> Bartholomew-Close, <hi>near</hi> Smithfield, 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
